@@ -5,8 +5,8 @@ _Sou estudante de programação, atualmente estudo com videoaulas, mas pretendo 
 
 <div>
 	<!--<a href=https://github.com/bryanEqualsTrue>  temporário até eu arrumar -->
-	<img align="center" width="497em" src="https://github-readme-stats.vercel.app/api?username=bryanEqualsTrue&show_icons=true&theme=radical">
-	<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=radical">
+	<img align="center" width="490em" src="https://github-readme-stats.vercel.app/api?username=bryanEqualsTrue&show_icons=true&theme=radical">
+	<img align="center" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=radical">
 </div>
 	
 	
