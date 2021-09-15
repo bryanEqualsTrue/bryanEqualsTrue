@@ -6,7 +6,7 @@ _Sou estudante de programação, atualmente estudo com videoaulas, mas pretendo 
 <div>
 	<!--<a href=https://github.com/bryanEqualsTrue>  temporário até eu arrumar -->
 	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=bryanEqualsTrue&show_icons=true&theme=radical">
-	<img align="right" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=radical">
+	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=radical">
 </div>
 	
 	
