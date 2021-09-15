@@ -6,23 +6,26 @@ _Sou estudante de programação, atualmente estudo com videoaulas, mas pretendo 
 <div>
 	<!--<a href=https://github.com/bryanEqualsTrue>  temporário até eu arrumar -->
 	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=bryanEqualsTrue&show_icons=true&theme=radical">
-	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=radical">
+	<img align="right" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=radical">
 </div>
 	
 	
-<div align="rigth" style="display: inline_block"> <br>
+<div style="display: inline_block"> <br>
 	<img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 	<img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"/>
 	<img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 	<img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 	<img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 	<img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+	<img width="140em" align="right" src="https://imgur.com/07rZfyR.png">
 </div>
 
-	
----
+##
 
 <div>
-	Ainda em manutenção...
-	<img width="300em" align="right" src="https://imgur.com/07rZfyR.png">
+	<a href="" > <!-- Whatsapp 	-->
+	<a href="" > <!-- Email		-->
+	<a href="" > <!-- Telegram 	-->
+	<a href="" > <!-- Discord 	-->
+	<a href="" > <!-- LinkedIn	-->
 </div>
