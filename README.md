@@ -5,8 +5,8 @@ _Sou estudante de programação, atualmente estudo com videoaulas, mas pretendo 
 
 <div>
 	<!--<a href=https://github.com/bryanEqualsTrue>  temporário até eu arrumar -->
-	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=bryanEqualsTrue&show_icons=true&theme=radical">
-	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=radical">
+	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=bryanEqualsTrue&show_icons=true&theme=github_dark">
+	<img align="center" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanEqualsTrue&layout=compact&theme=github_dark">
 </div>
 	
 	
@@ -23,9 +23,9 @@ _Sou estudante de programação, atualmente estudo com videoaulas, mas pretendo 
 ##
 
 <div>
-	<a href="" > <!-- Whatsapp 	-->
-	<a href="" > <!-- Email		-->
-	<a href="" > <!-- Telegram 	-->
-	<a href="" > <!-- Discord 	-->
-	<a href="" > <!-- LinkedIn	-->
+	<a href=""> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	<a href=""> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+	<a href=""> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+	<a href=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	<a href=""> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
